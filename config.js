@@ -5,7 +5,7 @@ exports.mongodb = {
   uri: process.env.MONGOLAB_URI || process.env.MONGOHQ_URL || 'mongodb://localhost:27017/albus'
 };
 exports.companyName = 'swimspy.us';
-exports.projectName = 'sw-albus';
+exports.projectName = 'albus';
 exports.systemEmail = 'ai@swimspy.us';
 //exports.cryptoKey = 'k3yb0ardc4t';
 exports.cryptoKey = 'a3yb8ardi4t';
